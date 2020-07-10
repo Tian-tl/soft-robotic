@@ -1,2 +1,3 @@
 # soft-robotic
-A responsive soft robotic with transformative performance to grab object.
+Soft Robotics becomes more and more elaborated, its practice appears evident in fields such as medical systems (e.g. soft-robotic surgery), aerospace, industrial assembly systems, catastrophe intervention, and other industries involving direct contact with human beings. Due to their soft and pneumatic nature, Soft Robotics have a compelling record within the meaning of interaction, extension and mutualism of the human body.A responsive soft robotic with transformative performance to grab object.
+Our proposal is to grab a hollow object using the inflation soft robotic, and use sensors to control the transformation from the perception of the external Devices. Therefore we will create a live Interaction Pipeline from Machine Vision Devices to Design via Processing and Arduino boards.
